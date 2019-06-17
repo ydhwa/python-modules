@@ -21,4 +21,4 @@ def main():
 if __name__ == '__main__':
     main()
 else:
-    print('mymod.py의 모듈이름: ', __name__)
+    print('모듈이름: ', __name__)
